@@ -1,0 +1,23 @@
+{
+  "name": "@corbintech/authentication",
+  "version": "1.0.2",
+  "description": "A package that contains all functions related to Authentication",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorbinTechnology/Authentication.git"
+  },
+  "keywords": [
+    "Authentication"
+  ],
+  "author": "Corbin Technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorbinTechnology/Authentication/issues"
+  },
+  "homepage": "https://github.com/CorbinTechnology/Authentication#readme"
+}
